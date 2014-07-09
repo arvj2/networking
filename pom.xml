@@ -6,13 +6,9 @@
     <modules>
         <module>chapter-6</module>
         <module>chapter-7</module>
+        <module>chapter-9</module>
     </modules>
 
-    <parent>
-        <groupId>com.jvra.net</groupId>
-        <artifactId>super-parent</artifactId>
-        <version>1.0</version>
-    </parent>
 
     <groupId>com.jvra.net</groupId>
     <artifactId>net</artifactId>

@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="basics" />
         <module name="chapter-7" />
+        <module name="chapter-9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basics" target="1.7" />
       <module name="chapter-6" target="1.7" />
       <module name="chapter-7" target="1.7" />
+      <module name="chapter-9" target="1.7" />
       <module name="net" target="1.7" />
     </bytecodeTargetLevel>
   </component>
