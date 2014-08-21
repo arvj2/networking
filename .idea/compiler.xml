@@ -23,9 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basics" />
+        <module name="chapter-12" />
+        <module name="chapter-13" />
+        <module name="chapter-14" />
         <module name="chapter-7" />
         <module name="chapter-9" />
         <module name="clients" />
+        <module name="file-system" />
         <module name="policy-signer" />
         <module name="servers" />
         <module name="sm-sample-game" />
@@ -34,10 +38,14 @@
     <bytecodeTargetLevel>
       <module name="basics" target="1.7" />
       <module name="chapter-10" target="1.7" />
+      <module name="chapter-12" target="1.7" />
+      <module name="chapter-13" target="1.7" />
+      <module name="chapter-14" target="1.7" />
       <module name="chapter-6" target="1.7" />
       <module name="chapter-7" target="1.7" />
       <module name="chapter-9" target="1.7" />
       <module name="clients" target="1.7" />
+      <module name="file-system" target="1.7" />
       <module name="net" target="1.7" />
       <module name="policy-signer" target="1.7" />
       <module name="security-manager" target="1.7" />
